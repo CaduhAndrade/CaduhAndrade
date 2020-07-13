@@ -11,4 +11,4 @@ My name is Carlos Eduardo I am passionate about technology and development.
 - 💜 I play Guitar
 - 💻 **Languages:** HTML, CSS, JavaScript, Node.js and looking forward to learn even more!
 - 🔧 **Tools:** Visual Studio Code, GitHub
-- 🎓 **Academic:** Bachelor in Computer Science and Biology
+- 🎓 **Academic:** Bachelor in Analysis and Systems Development
