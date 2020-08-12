@@ -9,6 +9,6 @@ My name is Carlos Eduardo I am passionate about technology and development.
 - 🌎 I'm from Rio De Janeiro / Brazil
 - 🎮 I like to play video games
 - 💜 I play Guitar
-- 💻 **Languages:** HTML, CSS, JavaScript, Node.js and looking forward to learn even more!
+- 💻 **Languages:** HTML, CSS, JavaScript, Node.js, C#, Asp.net Core and looking forward to learn even more!
 - 🔧 **Tools:** Visual Studio Code, GitHub
 - 🎓 **Academic:** Bachelor in Analysis and Systems Development
